@@ -3,7 +3,6 @@
 Frontend framework: React <br />
 Backend: Firebase
 
-Project hosted live at: https://instagram-clone-27222.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
