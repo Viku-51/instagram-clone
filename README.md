@@ -1,5 +1,9 @@
 # Instagram's web app clone
 
+
+![Screen 3-min](https://user-images.githubusercontent.com/58190465/126453651-2f81857d-3d8b-449e-917a-6edb2e8f1c6b.png)
+
+
 Frontend framework: React <br />
 Backend: Firebase
 
